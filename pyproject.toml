@@ -10,4 +10,8 @@ classifiers = [
     "Programming Language :: Python :: Implementation :: CPython",
     "Programming Language :: Python :: Implementation :: PyPy",
 ]
+license = {file = "LICENSE.txt"}
 
+
+[project.urls]
+homepage = "https://github.com/prokie/ltd-rust"
