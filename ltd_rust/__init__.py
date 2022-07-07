@@ -1,1 +1,1 @@
-from .ltd_rust import *
+from .ltd_rust import downsample
