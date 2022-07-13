@@ -1,4 +1,5 @@
 ![tests](https://github.com/prokie/ltd-rust/actions/workflows/tests.yml/badge.svg)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?)](http://makeapullrequest.com)
 
 
 This is a rust implementation of the downsampling alogrithm Large-Triangle-Dynamic. The algorithm was described in the thesis "Downsampling Time Series for Visual Representation
